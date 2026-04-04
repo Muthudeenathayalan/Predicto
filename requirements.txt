@@ -1,0 +1,10 @@
+Django==4.2.0
+djangorestframework==3.14.0
+django-cors-headers==4.0.0
+numpy==1.24.0
+pandas==2.0.0
+scikit-learn==1.2.0
+mysqlclient==2.1.1
+python-decouple==3.8
+Pillow==9.5.0
+requests==2.31.0
